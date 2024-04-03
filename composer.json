@@ -1,0 +1,15 @@
+{
+    "name": "arsan/my-core",
+    "autoload": {
+        "psr-4": {
+            "Arsan\\MyCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arsalan Arbalzhinov",
+            "email": "buryat_sambist03@mail.ru"
+        }
+    ],
+    "require": {}
+}
